@@ -5,6 +5,7 @@ public class Calculate
     public void add(integer a, integer b)
     {
         result = a+b;
+        System.debug('Changes tracked by git');
     }
     
     @testVisible
